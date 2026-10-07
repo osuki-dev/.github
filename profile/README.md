@@ -9,9 +9,7 @@ We build tools for working with coding agents, connecting to your own computer, 
 **Your agents, anywhere.** Follow coding agents, use the real terminal, and handle approvals from your phone. Connect to your own machines and make Muqun yours with custom themes. Available for iOS and Android.
 
 <!-- muqun-video:start -->
-[<img src="https://raw.githubusercontent.com/osuki-dev/.github/main/assets/muqun-promo-poster.png" alt="Play the 20-second Muqun film — Your agents, anywhere" width="100%">](https://github.com/osuki-dev/.github/blob/main/assets/muqun-promo-github.mp4)
-
-[▶ Watch the 20-second video](https://github.com/osuki-dev/.github/blob/main/assets/muqun-promo-github.mp4)
+https://github.com/user-attachments/assets/54ba2b3c-fec4-4627-81fc-25b1cad466fa
 <!-- muqun-video:end -->
 
 [Get the app](https://muqun.dev) · [Explore the source](https://github.com/osuki-dev/muqun-app)
